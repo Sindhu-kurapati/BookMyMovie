@@ -1,0 +1,27 @@
+.auth-container{
+    margin: 'auto';
+    width: 100%;
+    height: 70vh;
+    background:linear-gradient(to top, white,crimson);
+}
+.auth-inner-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.login-btn{
+    margin: 1rem 3rem !important;
+    width: 80%;
+    background-color: crimson!important;
+    border:none!important;
+}
+.logout-btn{
+    margin: 1rem 3rem !important;
+    background-color: crimson!important;
+    border:none!important;
+}
+.mb-3{
+    font-weight: 600;
+    font-size: 22px;
+}
